@@ -2,6 +2,6 @@ import React from "react";
 
 export const Profile = () => (
     <div>
-        Hola perfil
+        {"Hola perfil <3"}
     </div>
 )
